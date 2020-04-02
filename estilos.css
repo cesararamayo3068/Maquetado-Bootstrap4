@@ -13,9 +13,14 @@
     color:white;
 
 }
+.navbar-toggler{
+    color:white;
+    
+}
 
 #footer{
     background: #175374;
+    height: 50px;
     
 }
 #footer img{
@@ -30,44 +35,78 @@
 }
 .bg{
     background-color: #175374;
+
 }
 #container-fluid{
     background: #0085FE;
     color:white;
-    height: 650px;
+  
 
 }
+
 .card-text1{
-    margin-top:100px;
-    /* margin-bottom: auto; */
+    margin-top:50px;
     padding: 10px;
-    /* margin-left: auto;
-    margin-right: auto; */
-    text-align: center;
+    margin-right: auto;
+  
+    margin-left: 120px;
+    float: left;
 }
 
 .parrafo{
-    text-align: center;
+    
+    margin-left: 120px;
+    float: left;
 }
-.card-img{
-    max-width: 480px;
+
+.img{
+    max-width: 680px;
     margin-top:100px;
+    max-height: 500px;
+    margin-left: 100px;
+    margin-right: auto;
+   
+    margin-bottom: 170px;
+    height: 450px;
+    float: right;
 }
 .brand{
     color:white;
 
 }
+.brand-footer{
+    color:white;
+    padding-top: 30px;
+    
+}
 .text{
-    font-size: 40px;
-    text-align: center;
+    font-size: 35px;
+    text-align:center;
     color:  #175374;
-    /* margin-top: 30px;*/
+    
     margin-left: 30px;
 }
 .text1{
     color:#175374;
+  margin-left: 80px;
 }
 .imagen{
     max-width: 600px;
-    margin-bottom: 80px;
+   
+    margin-bottom: 10px;
+    margin-left: 90px;
+    margin-bottom: 15px;
+}
+.p1{
+   
+    text-align: center;
+    font-size: 25px;
+    color: #175374;
+}
+.text25{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.btn-transparente{
+    margin-left: 120px;
 }
